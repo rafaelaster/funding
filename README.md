@@ -84,9 +84,6 @@ This API demo provides a sample implementation of a crowdfunding platform. It al
 
 ---
 
-## Contact
-
-For questions or feedback, feel free to reach out to the development team.
 
 
 
